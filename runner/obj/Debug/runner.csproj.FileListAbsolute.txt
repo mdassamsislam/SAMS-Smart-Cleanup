@@ -1,0 +1,13 @@
+D:\A-REDX CORP\PROJECTS\VS\runner\runner\bin\Debug\Sams Smart Cleanup.exe.config
+D:\A-REDX CORP\PROJECTS\VS\runner\runner\bin\Debug\Sams Smart Cleanup.exe
+D:\A-REDX CORP\PROJECTS\VS\runner\runner\bin\Debug\Sams Smart Cleanup.pdb
+D:\A-REDX CORP\PROJECTS\VS\runner\runner\obj\Debug\runner.csproj.AssemblyReference.cache
+D:\A-REDX CORP\PROJECTS\VS\runner\runner\obj\Debug\SamsSmartCleanup.Form1.resources
+D:\A-REDX CORP\PROJECTS\VS\runner\runner\obj\Debug\Sams_Smart_Cleanup.Properties.Resources.resources
+D:\A-REDX CORP\PROJECTS\VS\runner\runner\obj\Debug\runner.csproj.GenerateResource.cache
+D:\A-REDX CORP\PROJECTS\VS\runner\runner\obj\Debug\runner.csproj.CoreCompileInputs.cache
+D:\A-REDX CORP\PROJECTS\VS\runner\runner\obj\Debug\runner.csproj.Fody.CopyLocal.cache
+D:\A-REDX CORP\PROJECTS\VS\runner\runner\obj\Debug\runner.csproj.Fody.RuntimeCopyLocal.cache
+D:\A-REDX CORP\PROJECTS\VS\runner\runner\obj\Debug\Sams Smart Cleanup.exe
+D:\A-REDX CORP\PROJECTS\VS\runner\runner\obj\Debug\Sams Smart Cleanup.pdb
+D:\A-REDX CORP\PROJECTS\VS\runner\runner\obj\Debug\Sams Smart Cleanup.exe.config
